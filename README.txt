@@ -30,7 +30,7 @@ But most of it is available publicly in the file which can be found in the follo
 
 
 
-Links to Animations of some Test-Cases can be found here (or shall be uploaded soon, if not already) : 
+Links to Animations of some Test-Cases can be found on the main page of this repo (or shall be uploaded soon, if not already) : 
     https://github.com/aman-at-github/3d-multi-body-dynamics-engine
 
 
