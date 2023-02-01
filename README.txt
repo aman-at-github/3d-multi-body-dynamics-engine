@@ -27,6 +27,8 @@ The entire code of this Project is an intellectual-property which has not been R
 But most of it is available publicly in the file which can be found in the following link : 
       https://github.com/aman-at-github/computer-algebra-system/blob/main/Equationsimplifier2.java
 ( In the above file, Java-code which is not meant to be revealed has been replaced by "Implementation Not Revealed By Author" )
+Following are the Java-classes in this file which are more relevant to Multi-Body-Dynamics rather than Computer-Algebra-System : 
+      [ Multi_Body , Joint_Revolute , Joint , Body , Vector ] 
 
 
 
